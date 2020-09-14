@@ -12,7 +12,7 @@ Change directory
  cd crud-laravel 
 ```
 
-Copy file .env.example file to .env
+Copy file .env.example file to .env, Then set the environment
 ```
  copy .env.example .env
 ```
