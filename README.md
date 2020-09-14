@@ -37,4 +37,4 @@ And run the web server
  php artisan serve 
 ```
 
-Now, visit http://localhost:8000 to try demo
+Now, visit http://localhost:8000/crud/category or http://localhost:8000/crud/product to try demo
