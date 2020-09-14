@@ -12,6 +12,11 @@ Change directory
  cd crud-laravel 
 ```
 
+Copy file .env.example file to .env
+```
+ copy .env.example .env
+```
+
 Let's install all packages
 ```
  composer install 
