@@ -22,6 +22,11 @@ Let's install all packages
  composer install 
 ```
 
+Generate Application Key
+```
+ php artisan key:generate
+```
+
 Let's do some migration
 ```
  php artisan migrate 
